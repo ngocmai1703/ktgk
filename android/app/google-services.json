@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264492045327",
+    "project_id": "loginhomeregister",
+    "storage_bucket": "loginhomeregister.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264492045327:android:46961ad03d8c33f021ff7a",
+        "android_client_info": {
+          "package_name": "com.loginhomeregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSRAvcDiZq1Oct2msL9sjxoR6V-QJShcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
